@@ -6,5 +6,7 @@ public class deneme4 {
         System.out.println("123");
         System.out.println("567");
         System.out.println("000");
+        System.out.println("..." +
+                "");
     }
 }
