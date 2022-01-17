@@ -9,5 +9,6 @@ public class deneme4 {
         System.out.println("..." +
                 "");
         System.out.println("helloword");
+        System.out.println("------------------------------");
     }
 }
