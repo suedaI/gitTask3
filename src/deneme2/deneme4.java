@@ -8,5 +8,6 @@ public class deneme4 {
         System.out.println("000");
         System.out.println("..." +
                 "");
+        System.out.println("helloword");
     }
 }
